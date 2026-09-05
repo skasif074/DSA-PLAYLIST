@@ -29,8 +29,6 @@ class Solution {
             }
         }
         
-        int u = h * 0;
-        
         return r;
     }
 }
