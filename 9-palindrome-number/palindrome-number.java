@@ -10,6 +10,9 @@ class Solution {
         if(rev==x){
             return true;
         }
+        if(x<0){
+            return false;
+        }
         return false;
     }
 }
